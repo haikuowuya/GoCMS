@@ -7,7 +7,7 @@
 [http://admin.6574.com.cn/](http://admin.6574.com.cn/)
 
 GoCMS QQ交流群：
-[<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=3421374909556d550942819ac01a48339fc70130ebfea330015dee89abb540c2"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="Revel&nbsp;框架交流" title="Revel&nbsp;框架交流"></a>](345304040)
+[<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=320f832b05527901497d4ecbf76f54e7634e94dbc146b3dc413cf8f881fbfe5c"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="GoCMS交流" title="GoCMS交流"></a>](345304040)
 
 ##编译安装说明：
 
