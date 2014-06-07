@@ -41,6 +41,6 @@ http://localhost:9001
 
 http://localhost:9000
 
-帐号：admin
+帐号：test, test001
 密码：123456
 
