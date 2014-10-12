@@ -19,6 +19,7 @@ GoCMS QQ交流群：
 获取源代码，下载完成后会自动编译为GoCMS可执行文件
 	
 	$ go get github.com/zzdboy/GoCMS
+把下载的代码话src/admin目录下
 
 修改数据库配置
 	
@@ -30,12 +31,8 @@ GoCMS QQ交流群：
 
 运行
 	
-	$ nohup revel run admin &
+	$ nohup revel run admin prod >admin.log &
 	设为后台运行
-
-访问： 
-
-http://localhost:9001
 
 后台地址：
 
