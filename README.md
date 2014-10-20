@@ -38,6 +38,6 @@ GoCMS QQ交流群：
 
 http://localhost:9000
 
-帐号：test, test001
+帐号：demo
 密码：123456
 
